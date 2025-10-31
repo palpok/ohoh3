@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Siêu Tầm Phim (VN)",
+    "url": "https://raw.githubusercontent.com/palpok/ohoh3/main/SieuTamPhimProvider.kt",
+    "className": "SieuTamPhimProvider",
+    "language": "vi",
+    "type": "Anime",
+    "version": 1
+  }
+]
